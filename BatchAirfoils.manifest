@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Keenan Surber",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
